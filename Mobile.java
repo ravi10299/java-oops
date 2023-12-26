@@ -1,5 +1,5 @@
 package Inheritance;
-
+//herarical inheritance
 public class Mobile {
     String CompanyName;
     String Model;
